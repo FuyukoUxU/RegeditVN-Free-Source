@@ -1,0 +1,5 @@
+E:\Visual Studio 2019 Projects\regeditvn\bin\publish\regeditvn.exe
+E:\Visual Studio 2019 Projects\regeditvn\bin\publish\regeditvn.dll
+E:\Visual Studio 2019 Projects\regeditvn\bin\publish\regeditvn.deps.json
+E:\Visual Studio 2019 Projects\regeditvn\bin\publish\regeditvn.runtimeconfig.json
+E:\Visual Studio 2019 Projects\regeditvn\bin\publish\regeditvn.pdb

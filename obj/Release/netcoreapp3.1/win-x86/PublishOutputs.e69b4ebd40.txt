@@ -1,0 +1,2 @@
+E:\Visual Studio 2019 Projects\regeditvn\bin\publish\regeditvn.pdb
+E:\Visual Studio 2019 Projects\regeditvn\bin\publish\regeditvn.exe
